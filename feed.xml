@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>NoNaMe Club</title>
+    <link href="https://nnmclub.github.io/nnmclub/feed.xml" rel="self" />
+    <link href="https://nnmclub.github.io/nnmclub" />
+    <updated>1970-01-01T03:00:00+03:00</updated>
+    <author>
+        <name>Halogenix</name>
+    </author>
+    <id>https://nnmclub.github.io/nnmclub</id>
+
+</feed>
