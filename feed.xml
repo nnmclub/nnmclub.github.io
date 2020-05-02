@@ -3,7 +3,7 @@
     <title>NoNaMe Club</title>
     <link href="https://nnmclub.github.io/nnmclub/feed.xml" rel="self" />
     <link href="https://nnmclub.github.io/nnmclub" />
-    <updated>2020-05-02T19:32:15+03:00</updated>
+    <updated>2020-05-02T19:38:18+03:00</updated>
     <author>
         <name>Halogenix</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://nnmclub.github.io/nnmclub/roskomnadzor-potreboval-ot-servisa-delta-chat-dostup-k-dannym-i-klyucham-shifrovaniya.html"/>
         <id>https://nnmclub.github.io/nnmclub/roskomnadzor-potreboval-ot-servisa-delta-chat-dostup-k-dannym-i-klyucham-shifrovaniya.html</id>
+            <category term="Новости"/>
 
-        <updated>2020-05-02T19:32:03+03:00</updated>
+        <updated>2020-05-02T19:36:18+03:00</updated>
             <summary>
                 <![CDATA[
                     Разработчики проекта Delta Chat сообщили о получении от Роскомнадзора требования о предоставлении доступа к данным пользователей и ключам, которые могут использоваться для расшифровки сообщений, а также о регистрации в реестре организаторов распространения информации. Проект отклонил запрос, мотивируя своё решение тем, что Delta Chat является лишь специализированным почтовым клиентом, пользователи которого используют&hellip;
