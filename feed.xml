@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>NoNaMe Club</title>
-    <link href="https://nnmclub.github.io/nnmclub/feed.xml" rel="self" />
-    <link href="https://nnmclub.github.io/nnmclub" />
-    <updated>2020-05-02T20:14:12+03:00</updated>
+    <link href="https://nnmclub.github.io/feed.xml" rel="self" />
+    <link href="https://nnmclub.github.io" />
+    <updated>2020-05-02T20:22:17+03:00</updated>
     <author>
         <name>Halogenix</name>
     </author>
-    <id>https://nnmclub.github.io/nnmclub</id>
+    <id>https://nnmclub.github.io</id>
 
     <entry>
         <title>Роскомнадзор потребовал от сервиса Delta Chat доступ к данным и ключам шифрования</title>
         <author>
             <name>Halogenix</name>
         </author>
-        <link href="https://nnmclub.github.io/nnmclub/roskomnadzor-potreboval-ot-servisa-delta-chat-dostup-k-dannym-i-klyucham-shifrovaniya.html"/>
-        <id>https://nnmclub.github.io/nnmclub/roskomnadzor-potreboval-ot-servisa-delta-chat-dostup-k-dannym-i-klyucham-shifrovaniya.html</id>
+        <link href="https://nnmclub.github.io/roskomnadzor-potreboval-ot-servisa-delta-chat-dostup-k-dannym-i-klyucham-shifrovaniya.html"/>
+        <id>https://nnmclub.github.io/roskomnadzor-potreboval-ot-servisa-delta-chat-dostup-k-dannym-i-klyucham-shifrovaniya.html</id>
             <category term="Новости"/>
 
         <updated>2020-05-02T19:36:18+03:00</updated>
