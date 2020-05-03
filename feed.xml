@@ -3,12 +3,35 @@
     <title>NoNaMe Club</title>
     <link href="https://nnmclub.github.io/feed.xml" rel="self" />
     <link href="https://nnmclub.github.io" />
-    <updated>2020-05-03T14:48:32+03:00</updated>
+    <updated>2020-05-03T15:14:41+03:00</updated>
     <author>
         <name>Halogenix</name>
     </author>
     <id>https://nnmclub.github.io</id>
 
+    <entry>
+        <title>ICANN заблокировала сделку по продаже доменной зоны .org частной компании</title>
+        <author>
+            <name>Halogenix</name>
+        </author>
+        <link href="https://nnmclub.github.io/icann-zablokirovala-sdelku-po-prodazhe-domennoy-zony-org-chastnoy-kompanii.html"/>
+        <id>https://nnmclub.github.io/icann-zablokirovala-sdelku-po-prodazhe-domennoy-zony-org-chastnoy-kompanii.html</id>
+            <category term="Новости"/>
+
+        <updated>2020-05-03T15:14:28+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nnmclub.github.io/media/posts/3/save_org.webp" alt="save .org" />
+                    [{"id":1588507657575,"type":"publii-image","content":{"image":"https://nnmclub.github.io/media/posts/3/save_org.webp","imageHeight":410,"imageWidth":760,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1588507717146,"type":"publii-paragraph","content":"Некоммерческая организация ICANN, регулирующая вопросы доменных имен, заблокировала сделку по продаже доменной зоны .ORG частной компании Ethos Capital. Об этом говорится в сообщении ICANN:","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""},"link":{"url":"https://www.icann.org/news/blog/icann-board-withholds-consent-for-a-change-of-control-of-the-public-interest-registry-pir","noFollow":false,"targetBlank":true,"sponsored":false,"ugc":false,"download":false}}},{"id":1588507748201,"type":"publii-quote","content":{"text":"«Роль ICANN заключается в обеспечении стабильной и безопасной работы систем уникальных идентификаторов Интернета. Мы нацелены на принятие правильного решения, понимая, что от&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nnmclub.github.io/media/posts/3/save_org.webp" alt="save .org" />
+                [{"id":1588507657575,"type":"publii-image","content":{"image":"https://nnmclub.github.io/media/posts/3/save_org.webp","imageHeight":410,"imageWidth":760,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1588507717146,"type":"publii-paragraph","content":"Некоммерческая организация ICANN, регулирующая вопросы доменных имен, заблокировала сделку по продаже доменной зоны .ORG частной компании Ethos Capital. Об этом <a href=\"https://www.icann.org/news/blog/icann-board-withholds-consent-for-a-change-of-control-of-the-public-interest-registry-pir\" target=\"_blank\">говорится</a> в сообщении ICANN:","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""},"link":{"url":"https://www.icann.org/news/blog/icann-board-withholds-consent-for-a-change-of-control-of-the-public-interest-registry-pir","noFollow":false,"targetBlank":true,"sponsored":false,"ugc":false,"download":false}}},{"id":1588507748201,"type":"publii-quote","content":{"text":"«Роль ICANN заключается в обеспечении стабильной и безопасной работы систем уникальных идентификаторов Интернета. Мы нацелены на принятие правильного решения, понимая, что от нашего решения зависит очень многое. Мы несем ответственность за оценку всех факторов с точки зрения Устава и политик ICANN, в том числе с учетом интересов общественности во всем мире. Мы сделали это, стараясь обеспечить максимально возможную прозрачность и приветствуя вклад заинтересованных сторон».","author":""},"config":{"advanced":{"cssClasses":"","id":""}}},{"id":1588507762872,"type":"publii-paragraph","content":"Это означает, что владельцем доменной зоны .org, состоящей примерно из 10 млн доменных имён, продолжит оставаться некоммерческая организация ISOC. Информация о сделке по продаже доменной зоны частной компании за $1,1 млрд появилась осенью прошлого года. Интернет-сообщество негативно отреагировало на эту <em>новость, поскольку возникли опасения по поводу того, что новый вл</em>аделец может изменить условия использования доменных имён для некоммерческих клиентов. Также высказывалось мнение, что Ethos Capital может подвергнуть цензуре веб-сайты в зоне .org, которые нередко критикуют корпоративные структуры.\n<br>\n<br>В конечном счёте в ICANN пришли к выводу, что сделка по продаже доменной зоны .org изменит «фундаментальную природу публичных интересов PIR и превратит её в организацию, которая обязана обслуживать интересы заинтересованных корпоративных сторон». Кроме того, после этой сделки PIR осталась бы с долгом в $360 млн, что также вызвало обеспокоенность ICANN, поскольку могло привести к дальнейшему нарушению деятельности организации.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Разбор закона о спецправовом режиме для ИИ в Москве</title>
         <author>
