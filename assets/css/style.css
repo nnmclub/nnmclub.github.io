@@ -2320,7 +2320,33 @@ textarea {
 
 .pswp--light .pswp__caption__center {
   color: var(--text-color); }
- 
+
+        :root {
+           --main-col-width:           50rem; 
+           --sidebar-width:            18rem; 
+           --navbar-height:            3.4rem;
+           --logo-color:               #FFFFFF; 
+           --primary-color:            #448AFF;   
+           --text-color:               #2C2E35; 
+           --headings-color:           #2C2E35; 
+           --link-color:               #3561FB; 
+           --link-hover-color:         #FF9844; 
+           --border-color-light:       #E1E2E3;
+           --border-radius:            4px;
+           --card-small-height:        14rem;
+           --card-large-height:        24rem; 
+           --overlay-bg:               #448AFF; 
+           --headings-weight:          600;
+           --headings-transform:       none;
+           --menu-link-color:          #FFFFFF;
+           --menu-link-hover-color:    #FFFFFF;
+           --menu-link-active-bg:      rgba(0,0,0,0.1);
+           --submenu-bg:               #FFFFFF;
+           --submenu-link-color:       #84888E;
+           --submenu-link-hover-color: #2C2E35;
+           --submenu-link-hover-bg:    #F7F7F8;
+
+        } 
             .lazyload,
             .lazyloading {
                opacity: 0;
