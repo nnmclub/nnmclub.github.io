@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nnmclub.github.io/sitemap.xml
